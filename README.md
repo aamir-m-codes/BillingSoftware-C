@@ -31,6 +31,9 @@ BillingSoftware-C/
 │── README.md # Project documentation
 │── LICENSE # Open-source license (MIT recommended)
 ```
+
+---
+
 ## 🛠️ How to Run
 
 1. Clone the repository:
@@ -45,7 +48,9 @@ BillingSoftware-C/
   ```bash
   ./billing
   ```
-   
+
+---
+
 ## 📊 Sample Output
   ```bash
 
@@ -67,6 +72,8 @@ Net total                                                               90.00
 Final total                                                             81.00
 -------------------------------------------------------------------------------
   ```
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
