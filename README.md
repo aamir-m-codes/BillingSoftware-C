@@ -22,23 +22,27 @@ This project is designed for small shops to manage item billing quickly.
 ---
 
 ## 📂 Project Structure
+```
 BillingSoftware-C/
 │── main.c # Source code
 │── Billing.txt # File where store records in binary formate not readable without software
 │── README.md # Project documentation
 │── LICENSE # Open-source license (MIT recommended)
-
+```
 ## 🛠️ How to Run
 
 1. Clone the repository:
   ```bash
   git clone https://github.com/aamir-m-codes/BillingSoftware-C.git
+  ```bash
 2. Compile the code:
   ```bash
   gcc main.c -o billing
+  ```bash
 3. Run the program:
   ```bash
   ./billing
+  ```bash
    
 ## 📊 Sample Output
 
