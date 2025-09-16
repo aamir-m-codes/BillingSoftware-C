@@ -1,3 +1,4 @@
+<div align="center">
 # BillingSoftware-C
 A simple but powerful **Console-based billing software** in C
 This project is designed for small shops to manage item billing quickly.
@@ -7,14 +8,14 @@ This project is designed for small shops to manage item billing quickly.
 ![Language](https://img.shields.io/badge/Language-C-blue)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
+</div>
 ---
 
 ## 🚀 Features
 - Add items with name, price and quantity
 - Calculate total bill with discount
 - Display formatted bill summary
-- Store records of each invoice (bill) in file (unreadable without this software)
++ Store records of each invoice (bill) in file (unreadable without this software)
 - User-friendly menu-driven interface
 - Search invoice with customer name
 - Delete invoice with customer name
@@ -65,3 +66,6 @@ Net total                                                               90.00
 Final total                                                             81.00
 -------------------------------------------------------------------------------
   ```
+
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
