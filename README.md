@@ -16,8 +16,7 @@ This project is designed for small shops to manage item billing quickly.
 - Add items with name, price and quantity
 - Calculate total bill with discount
 - Display formatted bill summary
-- Billing.txt # File where store records in binary formate not readable without software
-+ Billing.txt # Stores records in binary format (not readable without this software)
+- Billing.txt # Stores records in binary format (not readable without this software)
 - User-friendly menu-driven interface
 - Search invoice with customer name
 - Delete invoice with customer name
