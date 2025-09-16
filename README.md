@@ -45,6 +45,7 @@ BillingSoftware-C/
   ```
    
 ## 📊 Sample Output
+  ```bash
 
                 *****"Your" super market*****
 
@@ -63,3 +64,4 @@ Net total                                                               90.00
 @10 discount                                                            9.00
 Final total                                                             81.00
 -------------------------------------------------------------------------------
+  ```
