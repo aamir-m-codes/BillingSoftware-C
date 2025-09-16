@@ -1,4 +1,5 @@
 <div align="center">
+
 # BillingSoftware-C
 A simple but powerful **Console-based billing software** in C
 This project is designed for small shops to manage item billing quickly.
@@ -8,8 +9,8 @@ This project is designed for small shops to manage item billing quickly.
 ![Language](https://img.shields.io/badge/Language-C-blue)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
 </div>
----
 
 ## 🚀 Features
 - Add items with name, price and quantity
