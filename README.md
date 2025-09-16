@@ -34,15 +34,15 @@ BillingSoftware-C/
 1. Clone the repository:
   ```bash
   git clone https://github.com/aamir-m-codes/BillingSoftware-C.git
-  ```bash
+  ```
 2. Compile the code:
   ```bash
   gcc main.c -o billing
-  ```bash
+  ```
 3. Run the program:
   ```bash
   ./billing
-  ```bash
+  ```
    
 ## 📊 Sample Output
 
