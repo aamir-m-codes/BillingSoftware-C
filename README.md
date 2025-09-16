@@ -1,6 +1,6 @@
 <div align="center">
 
-# BillingSoftware-C
+# 💳 Billing Software
 A simple but powerful **Console-based billing software** in C
 This project is designed for small shops to manage item billing quickly.
 
