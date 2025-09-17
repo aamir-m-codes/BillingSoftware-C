@@ -12,6 +12,11 @@ This project is designed for small shops to manage item billing quickly.
 
 </div>
 
+## 🖼️ Preview
+![Sample Output Screenshot](Inovice.jpg)
+
+---
+
 ## 🚀 Features
 - Add items with name, price and quantity
 - Calculate total bill with discount
