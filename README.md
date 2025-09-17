@@ -13,7 +13,7 @@ This project is designed for small shops to manage item billing quickly.
 </div>
 
 ## 🖼️ Preview
-![Sample Output Screenshot](Inovice.jpg)
+![Sample Output Screenshot](Invoice.jpg)
 
 ---
 
@@ -32,6 +32,7 @@ This project is designed for small shops to manage item billing quickly.
 ```
 BillingSoftware-C/
 │── main.c # Source code
+│── Invoice.jpg # Preview Screenshot
 │── Billing.txt # File where store records in binary formate not readable without software
 │── README.md # Project documentation
 │── LICENSE # Open-source license (MIT recommended)
